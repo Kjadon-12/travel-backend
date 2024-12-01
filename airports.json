@@ -1,0 +1,423 @@
+[
+    {
+      "airportCode": "DEL",
+      "airportName": "Indira Gandhi International Airport",
+      "cityName": "New Delhi",
+      "countryName": "India",
+      "cityCode": "DEL",
+      "countryCode": "IN",
+      "latitude": 28.5562,
+      "longitude": 77.1000
+    },
+    {
+      "airportCode": "BOM",
+      "airportName": "Chhatrapati Shivaji Maharaj International Airport",
+      "cityName": "Mumbai",
+      "countryName": "India",
+      "cityCode": "BOM",
+      "countryCode": "IN",
+      "latitude": 19.0886,
+      "longitude": 72.8681
+    },
+    {
+      "airportCode": "BLR",
+      "airportName": "Kempegowda International Airport",
+      "cityName": "Bangalore",
+      "countryName": "India",
+      "cityCode": "BLR",
+      "countryCode": "IN",
+      "latitude": 13.1986,
+      "longitude": 77.7069
+    },
+    {
+      "airportCode": "MAA",
+      "airportName": "Chennai International Airport",
+      "cityName": "Chennai",
+      "countryName": "India",
+      "cityCode": "MAA",
+      "countryCode": "IN",
+      "latitude": 13.0820,
+      "longitude": 80.2200
+    },
+    {
+      "airportCode": "HYD",
+      "airportName": "Rajiv Gandhi International Airport",
+      "cityName": "Hyderabad",
+      "countryName": "India",
+      "cityCode": "HYD",
+      "countryCode": "IN",
+      "latitude": 17.2311,
+      "longitude": 78.4298
+    },
+    {
+      "airportCode": "CCU",
+      "airportName": "Netaji Subhas Chandra Bose International Airport",
+      "cityName": "Kolkata",
+      "countryName": "India",
+      "cityCode": "CCU",
+      "countryCode": "IN",
+      "latitude": 22.6548,
+      "longitude": 88.4467
+    },
+    {
+      "airportCode": "BLR",
+      "airportName": "Kempegowda International Airport",
+      "cityName": "Bangalore",
+      "countryName": "India",
+      "cityCode": "BLR",
+      "countryCode": "IN",
+      "latitude": 13.1986,
+      "longitude": 77.7069
+    },
+    {
+      "airportCode": "SXR",
+      "airportName": "Sheikh ul-Alam International Airport",
+      "cityName": "Srinagar",
+      "countryName": "India",
+      "cityCode": "SXR",
+      "countryCode": "IN",
+      "latitude": 33.9990,
+      "longitude": 74.7815
+    },
+    {
+      "airportCode": "GOI",
+      "airportName": "Goa International Airport",
+      "cityName": "Goa",
+      "countryName": "India",
+      "cityCode": "GOI",
+      "countryCode": "IN",
+      "latitude": 15.3800,
+      "longitude": 73.8265
+    },
+    {
+      "airportCode": "COK",
+      "airportName": "Cochin International Airport",
+      "cityName": "Cochin",
+      "countryName": "India",
+      "cityCode": "COK",
+      "countryCode": "IN",
+      "latitude": 10.1552,
+      "longitude": 76.3919
+    },
+    {
+      "airportCode": "STV",
+      "airportName": "Surat International Airport",
+      "cityName": "Surat",
+      "countryName": "India",
+      "cityCode": "STV",
+      "countryCode": "IN",
+      "latitude": 21.1220,
+      "longitude": 72.6476
+    },
+    {
+      "airportCode": "PNQ",
+      "airportName": "Pune International Airport",
+      "cityName": "Pune",
+      "countryName": "India",
+      "cityCode": "PNQ",
+      "countryCode": "IN",
+      "latitude": 18.5816,
+      "longitude": 73.9197
+    },
+    {
+      "airportCode": "IXC",
+      "airportName": "Chandigarh International Airport",
+      "cityName": "Chandigarh",
+      "countryName": "India",
+      "cityCode": "IXC",
+      "countryCode": "IN",
+      "latitude": 30.6782,
+      "longitude": 76.7842
+    },
+    {
+      "airportCode": "IXA",
+      "airportName": "Agartala Airport",
+      "cityName": "Agartala",
+      "countryName": "India",
+      "cityCode": "IXA",
+      "countryCode": "IN",
+      "latitude": 23.8685,
+      "longitude": 91.2765
+    },
+    {
+      "airportCode": "JAI",
+      "airportName": "Jaipur International Airport",
+      "cityName": "Jaipur",
+      "countryName": "India",
+      "cityCode": "JAI",
+      "countryCode": "IN",
+      "latitude": 26.8245,
+      "longitude": 75.8126
+    },
+    {
+      "airportCode": "IXR",
+      "airportName": "Ranchi Airport",
+      "cityName": "Ranchi",
+      "countryName": "India",
+      "cityCode": "IXR",
+      "countryCode": "IN",
+      "latitude": 23.3442,
+      "longitude": 85.3245
+    },
+    {
+      "airportCode": "IXE",
+      "airportName": "Mangalore International Airport",
+      "cityName": "Mangalore",
+      "countryName": "India",
+      "cityCode": "IXE",
+      "countryCode": "IN",
+      "latitude": 12.9612,
+      "longitude": 74.8889
+    },
+    {
+      "airportCode": "IXM",
+      "airportName": "Madurai Airport",
+      "cityName": "Madurai",
+      "countryName": "India",
+      "cityCode": "IXM",
+      "countryCode": "IN",
+      "latitude": 9.8343,
+      "longitude": 78.0927
+    },
+    {
+      "airportCode": "BLR",
+      "airportName": "Kempegowda International Airport",
+      "cityName": "Bangalore",
+      "countryName": "India",
+      "cityCode": "BLR",
+      "countryCode": "IN",
+      "latitude": 13.1986,
+      "longitude": 77.7069
+    },
+    {
+      "airportCode": "BKK",
+      "airportName": "Suvarnabhumi Airport",
+      "cityName": "Bangkok",
+      "countryName": "Thailand",
+      "cityCode": "BKK",
+      "countryCode": "TH",
+      "latitude": 13.6919,
+      "longitude": 100.7501
+    },
+    {
+      "airportCode": "JFK",
+      "airportName": "John F. Kennedy International Airport",
+      "cityName": "New York City",
+      "countryName": "United States",
+      "cityCode": "JFK",
+      "countryCode": "US",
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    {
+      "airportCode": "LHR",
+      "airportName": "London Heathrow Airport",
+      "cityName": "London",
+      "countryName": "United Kingdom",
+      "cityCode": "LHR",
+      "countryCode": "GB",
+      "latitude": 51.4700,
+      "longitude": -0.4543
+    },
+    {
+      "airportCode": "HKG",
+      "airportName": "Hong Kong International Airport",
+      "cityName": "Hong Kong",
+      "countryName": "Hong Kong",
+      "cityCode": "HKG",
+      "countryCode": "HK",
+      "latitude": 22.3080,
+      "longitude": 113.9145
+    },
+    {
+      "airportCode": "SIN",
+      "airportName": "Singapore Changi Airport",
+      "cityName": "Singapore",
+      "countryName": "Singapore",
+      "cityCode": "SIN",
+      "countryCode": "SG",
+      "latitude": 1.3644,
+      "longitude": 103.9915
+    },
+    {
+      "airportCode": "CDG",
+      "airportName": "Charles de Gaulle Airport",
+      "cityName": "Paris",
+      "countryName": "France",
+      "cityCode": "CDG",
+      "countryCode": "FR",
+      "latitude": 49.0097,
+      "longitude": 2.5479
+    },
+    {
+      "airportCode": "SYD",
+      "airportName": "Sydney Kingsford Smith Airport",
+      "cityName": "Sydney",
+      "countryName": "Australia",
+      "cityCode": "SYD",
+      "countryCode": "AU",
+      "latitude": -33.9399,
+      "longitude": 151.1753
+    },
+    {
+      "airportCode": "DXB",
+      "airportName": "Dubai International Airport",
+      "cityName": "Dubai",
+      "countryName": "United Arab Emirates",
+      "cityCode": "DXB",
+      "countryCode": "AE",
+      "latitude": 25.2532,
+      "longitude": 55.3657
+    },
+    {
+      "airportCode": "FRA",
+      "airportName": "Frankfurt Airport",
+      "cityName": "Frankfurt",
+      "countryName": "Germany",
+      "cityCode": "FRA",
+      "countryCode": "DE",
+      "latitude": 50.0379,
+      "longitude": 8.5622
+    },
+    {
+      "airportCode": "AMS",
+      "airportName": "Amsterdam Schiphol Airport",
+      "cityName": "Amsterdam",
+      "countryName": "Netherlands",
+      "cityCode": "AMS",
+      "countryCode": "NL",
+      "latitude": 52.3086,
+      "longitude": 4.7639
+    },
+    {
+      "airportCode": "ICN",
+      "airportName": "Incheon International Airport",
+      "cityName": "Seoul",
+      "countryName": "South Korea",
+      "cityCode": "ICN",
+      "countryCode": "KR",
+      "latitude": 37.4653,
+      "longitude": 126.4407
+    },
+    {
+      "airportCode": "PVG",
+      "airportName": "Shanghai Pudong International Airport",
+      "cityName": "Shanghai",
+      "countryName": "China",
+      "cityCode": "PVG",
+      "countryCode": "CN",
+      "latitude": 31.1441,
+      "longitude": 121.8083
+    },
+    {
+      "airportCode": "LAX",
+      "airportName": "Los Angeles International Airport",
+      "cityName": "Los Angeles",
+      "countryName": "United States",
+      "cityCode": "LAX",
+      "countryCode": "US",
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    {
+      "airportCode": "BNE",
+      "airportName": "Brisbane Airport",
+      "cityName": "Brisbane",
+      "countryName": "Australia",
+      "cityCode": "BNE",
+      "countryCode": "AU",
+      "latitude": -27.3833,
+      "longitude": 153.1186
+    },
+    {
+      "airportCode": "ORD",
+      "airportName": "O'Hare International Airport",
+      "cityName": "Chicago",
+      "countryName": "United States",
+      "cityCode": "ORD",
+      "countryCode": "US",
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    {
+      "airportCode": "YVR",
+      "airportName": "Vancouver International Airport",
+      "cityName": "Vancouver",
+      "countryName": "Canada",
+      "cityCode": "YVR",
+      "countryCode": "CA",
+      "latitude": 49.1939,
+      "longitude": -123.1837
+    },
+    {
+      "airportCode": "KIX",
+      "airportName": "Kansai International Airport",
+      "cityName": "Osaka",
+      "countryName": "Japan",
+      "cityCode": "KIX",
+      "countryCode": "JP",
+      "latitude": 34.4348,
+      "longitude": 135.2441
+    },
+    {
+      "airportCode": "IST",
+      "airportName": "Istanbul Airport",
+      "cityName": "Istanbul",
+      "countryName": "Turkey",
+      "cityCode": "IST",
+      "countryCode": "TR",
+      "latitude": 41.2619,
+      "longitude": 28.7480
+    },
+    {
+      "airportCode": "MAD",
+      "airportName": "Adolfo Suárez Madrid–Barajas Airport",
+      "cityName": "Madrid",
+      "countryName": "Spain",
+      "cityCode": "MAD",
+      "countryCode": "ES",
+      "latitude": 40.4713,
+      "longitude": -3.5626
+    },
+    {
+      "airportCode": "ZRH",
+      "airportName": "Zurich Airport",
+      "cityName": "Zurich",
+      "countryName": "Switzerland",
+      "cityCode": "ZRH",
+      "countryCode": "CH",
+      "latitude": 47.4647,
+      "longitude": 8.5491
+    },
+    {
+      "airportCode": "LIS",
+      "airportName": "Lisbon Airport",
+      "cityName": "Lisbon",
+      "countryName": "Portugal",
+      "cityCode": "LIS",
+      "countryCode": "PT",
+      "latitude": 38.7742,
+      "longitude": -9.1349
+    },
+    {
+      "airportCode": "MUC",
+      "airportName": "Munich Airport",
+      "cityName": "Munich",
+      "countryName": "Germany",
+      "cityCode": "MUC",
+      "countryCode": "DE",
+      "latitude": 48.3538,
+      "longitude": 11.7861
+    },
+    {
+      "airportCode": "BOM",
+      "airportName": "Chhatrapati Shivaji Maharaj International Airport",
+      "cityName": "Mumbai",
+      "countryName": "India",
+      "cityCode": "BOM",
+      "countryCode": "IN",
+      "latitude": 19.0886,
+      "longitude": 72.8681
+    }
+  ]
+  
