@@ -34,3 +34,10 @@ longitude    Float
 groupedData NearByAirport? @relation(fields: [airportCode], references: [airportCode])
 
 }
+
+model AirlinesWith {
+  id      String   @id @default(auto()) @map("_id") @db.ObjectId
+  date    String @unique
+  
+
+}
