@@ -13,31 +13,37 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-
-
 model NearByAirport {
-  id String @id @default(auto()) @map("_id") @db.ObjectId
-  airportCode String @unique
-  Airport Airport[]
+  id          String    @id @default(auto()) @map("_id") @db.ObjectId
+  airportCode String    @unique
+  Airport     Airport[]
 }
 
 model Airport {
-id      String   @id @default(auto()) @map("_id") @db.ObjectId
-airportName String
-cityName String
-countryName String
-airportCode String @unique
-cityCode String
-countryCode String
-latitude     Float
-longitude    Float
-groupedData NearByAirport? @relation(fields: [airportCode], references: [airportCode])
-
+  id          String         @id @default(auto()) @map("_id") @db.ObjectId
+  airportName String
+  cityName    String
+  countryName String
+  airportCode String         @unique
+  cityCode    String
+  countryCode String
+  latitude    Float
+  longitude   Float
+  groupedData NearByAirport? @relation(fields: [airportCode], references: [airportCode])
 }
 
-model AirlinesWith {
-  id      String   @id @default(auto()) @map("_id") @db.ObjectId
-  date    String @unique
-  
-
+model Flights {
+  id                String  @id @default(auto()) @map("_id") @db.ObjectId
+  date              String
+  flight_num        String  @unique
+  fligth_name       String
+  flight_image      String?
+  departure_airport Json
+  arrival_airport   Json
+  fare              Float
+  currency          String
+  stop              Json?
+  classType         String
+  free_meal         Json
+  baggage_allowed   Json
 }

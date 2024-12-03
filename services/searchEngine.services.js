@@ -4,6 +4,7 @@ const prisma = new PrismaClient();
 
 // Function to find airports by partial city name
 async function findAirportsByCity(cityName = '') {  
+    console.log("cityName",cityName);
     try {
 
         const airports = await prisma.airport.findMany({
